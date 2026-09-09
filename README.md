@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Gustavo da silva freire teixeira, tenho 26 anos e sou natural do Rio de Janeiro.Estou cursando Análise e Desenvolvimento de Sistemas na Estacio ead. Antes disso Realizei um curso de programação Back-end na instituição Firjan senai maracanã no modo ead, foi o meu primeiro contato com a programação na linguagem java onde me apaixonei pela área e decidi que faria desse curso minha profissão do futuro.
+Me chamo Gustavo da silva freire teixeira, tenho 27 anos e sou natural do Rio de Janeiro.Estou cursando Análise e Desenvolvimento de Sistemas na Estacio ead. Antes disso Realizei um curso de programação Back-end na instituição Firjan senai maracanã no modo ead, foi o meu primeiro contato com a programação na linguagem java onde me apaixonei pela área e decidi que faria desse curso minha profissão do futuro.
 
  ## contato:[gustavo teixeira](https://www.linkedin.com/in/gustavo-teixeira2225/)
 
